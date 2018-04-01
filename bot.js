@@ -31,4 +31,4 @@ client.on('ready', () => {
    console.log('Connexion reussi!'); 
 });
 
-client.login('YOUR_TOKEN');
+client.login('TON_TOKEN');
